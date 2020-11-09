@@ -1,0 +1,9 @@
+ini.c:282:14:ini_reader_string	20	static
+ini.c:67:14:find_chars_or_comment	32	static
+ini.c:57:14:lskip	16	static
+ini.c:48:14:rstrip	16	static
+ini.c:97:5:ini_parse_stream	352	static
+ini.c:244:5:ini_parse_file	0	static
+ini.c:250:5:ini_parse_fatfs	4160	static
+ini.c:266:5:ini_parse	16	static
+ini.c:308:5:ini_parse_string	24	static

@@ -1,0 +1,7 @@
+ws2812.c:28:6:ws2812_init	16	static
+ws2812.c:37:6:ws2812_clearBuf	16	static
+ws2812.c:43:6:ws2812_setPixel_gammaCorrection	24	static
+ws2812.c:47:6:ws2812_pixel_rgb_to_buf_dma	24	static
+ws2812.c:79:6:ws2812_light	8	static
+ws2812.c:84:10:HsvToRgb	32	static
+ws2812.c:138:10:RgbToHsv	32	static

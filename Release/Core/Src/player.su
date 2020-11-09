@@ -1,0 +1,10 @@
+player.c:80:27:AUDIO_PLAYER_FromUsbToSrcToCodecBuf	40	static
+player.c:192:5:src_init	8	static
+player.c:380:5:init_FAT_FS	8	static
+player.c:398:20:AUDIO_PLAYER_Stop	8	static
+player.c:129:20:AUDIO_PLAYER_Process	16	static
+player.c:407:6:HAL_I2S_TxCpltCallback	0	static
+player.c:449:6:HAL_I2S_TxHalfCpltCallback222	0	static
+player.c:487:6:writeErrorTxt	4160	static
+player.c:210:5:playWavFile	40	static
+player.c:459:6:player	344	static

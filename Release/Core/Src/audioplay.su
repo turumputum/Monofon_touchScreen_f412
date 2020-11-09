@@ -1,0 +1,5 @@
+audioplay.c:10:9:AudioPlay_Play	8	static
+audioplay.c:21:9:AudioPlay_Stop	8	static
+audioplay.c:33:6:AudioPlay_ChangeBuffer	0	static
+audioplay.c:46:6:AudioPlay_HalfTransfer_CallBack	0	static
+audioplay.c:51:6:AudioPlay_TransferComplete_CallBack	0	static

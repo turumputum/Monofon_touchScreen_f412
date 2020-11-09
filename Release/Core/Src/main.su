@@ -1,0 +1,8 @@
+main.c:174:12:handler	24	static
+main.c:122:5:_write	12	static,ignoring_inline_asm
+main.c:130:6:HAL_ADCEx_InjectedConvCpltCallback	8	static
+main.c:167:6:HAL_TIM_OC_DelayElapsedCallback	0	static
+main.c:201:9:scan_files	136	static
+main.c:439:6:SystemClock_Config	160	static
+main.c:249:5:main	384	static
+main.c:980:6:Error_Handler	0	static
